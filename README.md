@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scotch47
+- 👋 Hi, I’m Vitaliy
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning JS,VUE,REACT
 
